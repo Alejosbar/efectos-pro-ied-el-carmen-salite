@@ -1,5 +1,5 @@
 body{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: blue;
     background: linear-gradient(135deg, #3e6787 0%, #63b29a 100%);
 }
@@ -198,4 +198,12 @@ body{
     opacity: 0%;
     transform: translateX(-70%);
   }
+}
+/* From Uiverse.io by adamgiebl */ 
+.card {
+  width: 340px;
+  height: 444px;
+  border-radius: 100px;
+  background: lightgrey;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 50px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 26px -18px inset;
 }
