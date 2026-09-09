@@ -3,6 +3,11 @@ body{
     background-color: blue;
     background: linear-gradient(135deg, #3e6787 0%, #63b29a 100%);
 }
+.letrastitulo {
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 /* From Uiverse.io by Novaxlo */ 
 .capybaraloader {
   width: 14em;
@@ -201,9 +206,11 @@ body{
 }
 /* From Uiverse.io by adamgiebl */ 
 .card {
-  width: 340px;
-  height: 444px;
-  border-radius: 100px;
-  background: lightgrey;
+  width: 1304px;
+  height: 550px;
+  border-radius: 30px;
+  background: #ffffff;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 50px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 26px -18px inset;
+  margin-left: 300px;
+  margin-right:300px;
 }
