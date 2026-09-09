@@ -7,6 +7,7 @@ body{
   color: white;
   text-align: center;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 50px;
 }
 /* From Uiverse.io by Novaxlo */ 
 .capybaraloader {
@@ -17,6 +18,7 @@ body{
   --color: rgb(204, 125, 45);
   --color2: rgb(83, 56, 28);
   transform: scale(0.75);
+  margin-left: 800px;
 }
 .capybara {
   width: 100%;
@@ -214,3 +216,4 @@ body{
   margin-left: 300px;
   margin-right:300px;
 }
+
